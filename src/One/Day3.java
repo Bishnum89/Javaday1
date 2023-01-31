@@ -14,7 +14,7 @@ public class Day3 {
 		System.out.println(4 < 8);
 		System.out.println(9 > 4);
 
-		op(12, 13);
+		op(10, 13);
 		op(15, 20);
 
 		// Logical operator
