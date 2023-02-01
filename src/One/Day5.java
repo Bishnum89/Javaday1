@@ -29,6 +29,7 @@ public class Day5 {
 			switch (planets) {
 			case 1:
 				System.out.println("Mercury");
+				
 				break;
 			case 2:
 				System.out.println("Venus");
@@ -58,3 +59,4 @@ public class Day5 {
 
 	}
 }
+
